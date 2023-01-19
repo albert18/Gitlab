@@ -11,3 +11,5 @@ Gitlab - enables collaboration among a team of developers with Gitlab Flow.
 
 > git stash apply
 > git stash pop
+
+> git branch OR git checkout -b 
