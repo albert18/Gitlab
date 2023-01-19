@@ -7,3 +7,7 @@ Gitlab - enables collaboration among a team of developers with Gitlab Flow.
 > git push
 > git log 
 > git branch {NAME}
+
+
+> git stash apply
+> git stash pop
