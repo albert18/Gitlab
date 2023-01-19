@@ -1,1 +1,9 @@
 Gitlab - enables collaboration among a team of developers with Gitlab Flow.
+
+
+> git status
+> git add {FILENAME} OR git add .
+> git commit -m "{GIVE IT A NAME}"
+> git push
+> git log 
+> git branch {NAME}
